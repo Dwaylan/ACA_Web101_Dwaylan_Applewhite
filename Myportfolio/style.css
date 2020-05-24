@@ -22,7 +22,7 @@ body {
     width: 100%;
     display: grid;
     grid-template-columns: 30% 40% 30%;
-    background-image: url("../My\ portfolio/Images/wave background.jpg");
+    background-image: url(../Myportfolio/Images/wave\ background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
