@@ -1,0 +1,17 @@
+.title{
+    background-color: blanchedalmond;
+}
+
+
+
+
+
+
+
+
+
+section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 33% 33% 34%;
+}
